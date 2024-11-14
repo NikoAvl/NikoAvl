@@ -1,72 +1,120 @@
-<h1 align="center">Hi , I'm Nicol&aacutes Valdivia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=A371F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nicol%C3%A1s+Valdivia!+%F0%9F%91%8B;Data+Engineering+Student+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<!-- Profile Views Counter -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+love+data;On+the+path+to+becoming+a+data+engineer;Data+Enthusiast;Always+learning+new+things">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=NikoAvl&style=for-the-badge&color=A371F7" alt="Profile Views">
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZqemI3NDIyMHFpMTllbzNrN3UwcGw2dDFpYzd1NXd6cnczNTJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" />
+<!-- Quick Info -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=NikoAvl&theme=nightowl&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=A371F7&ring=E34C26&fire=DA5B0B&currStreakNum=C6538C&currStreakLabel=3572A5">
+  </a>
+</div>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<!-- About Me Section -->
+## 🎭 About Me
+<img align="right" width="38%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZqemI3NDIyMHFpMTllbzNrN3UwcGw2dDFpYzd1NXd6cnczNTJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp"/>
 
-### 👋 Hello! I'm a Data Engineering Enthusiast
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Nicolás Valdivia"
+        self.role = "Data Engineering Student"
+        self.location = "Chile 🇨🇱"
+        self.education = {
+            "university": "Andrés Bello University",
+            "degree": "Computer Engineering",
+            "graduation": 2025
+        }
+        self.interests = [
+            "Data Engineering",
+            "Machine Learning",
+            "Cloud Computing",
+            "Big Data"
+        ]
+    
+    def get_current_learning(self):
+        return {
+            "data_tools": ["Apache Spark", "Airflow"],
+            "cloud": ["AWS", "GCP"],
+            "databases": ["PostgreSQL", "MongoDB"]
+        }
+    
+    def get_goals(self):
+        return [
+            "Master data pipeline architecture",
+            "Contribute to open-source",
+            "Build scalable solutions",
+            "Share knowledge with others"
+        ]
 
-- 🎓 **Age**: 21 years old  
-- 📚 **Current Studies**: Computer Engineering at **Andrés Bello University**  
-- 💡 **Passion**: Technology and Data  
-- 🔧 **Career Focus**: Aspiring Data Engineer  
-- 💼 **Skills**: Data Analysis, Machine Learning, Data Pipelines  
-- 🌍 **Goal**: Apply knowledge to solve complex business problems and grow in the field of Data Engineering  
-- 🚀 **Mindset**: Continuously learning and evolving in the data world
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and create something amazing together! 🚀")
 
-I am deeply fascinated by how data can transform businesses and solve complex problems. I aim to apply my growing skill set to real-world challenges and continue improving my abilities in Data Engineering.  
+me = DataEngineer()
+me.say_hi()
+```
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- Tech Stack -->
+## 🛠️ Technology Stack
+<div align="center">
+  
+### 💾 Data & Databases
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-<p align="center">
-  <!-- Estadísticas Generales -->
+### ☁️ Cloud & DevOps
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+### 📊 Data Science Tools
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+
+</div>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NikoAvl&show_icons=true&count_private=true&hide_border=true&title_color=A371F7&icon_color=DA5B0B&text_color=c9d1d9&bg_color=0d1117" alt="Nicolás Valdivia github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoAvl&layout=compact&hide_border=true&title_color=A371F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikoAvl&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikoAvl&bg_color=0d1117&color=A371F7&line=3572A5&point=C6538C&area=true&hide_border=true" />
+</div>
+
+<!-- Connect with Me -->
+## 🤝 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolás-antonio-valdivia-lópez-b71043265/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:valdivialopez.nicolas@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/niko.avl/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://github.com/NikoAvl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikoAvl&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true"/>
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <!-- Tarjetas de Resumen -->
-  <a href="https://github.com/NikoAvl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikoAvl&theme=radical" />
-  </a>
-  <a href="https://github.com/NikoAvl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikoAvl&theme=radical&utcOffset=8" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Detalles del Perfil -->
-  <a href="https://github.com/NikoAvl">
-    <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoAvl&theme=radical" />
-  </a>
-  <a href="https://github.com/NikoAvl">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikoAvl&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
-
-
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-antonio-valdivia-l%C3%B3pez-b71043265/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px; transform: scale(1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-  <a href="https://github.com/NikoAvl" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px; transform: scale(1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-  <a href="mailto:valdivialopez.nicolas@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" style="margin: 0 10px; transform: scale(1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-  <a href="https://www.instagram.com/niko.avl/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 0 10px; transform: scale(1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-</p>
-
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&section=footer"/>
