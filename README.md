@@ -102,19 +102,20 @@ me.say_hi()
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolás-antonio-valdivia-lópez-b71043265/">
+  <a href="https://www.linkedin.com/in/nicolás-antonio-valdivia-lópez-b71043265/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:valdivialopez.nicolas@gmail.com">
+  <a href="mailto:valdivialopez.nicolas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/niko.avl/">
+  <a href="https://www.instagram.com/niko.avl/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://github.com/NikoAvl">
+  <a href="https://github.com/NikoAvl" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&section=footer"/>
+
